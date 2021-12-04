@@ -1,0 +1,39 @@
+a {
+    color: black !important;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: "roboto" !important;
+}
+
+.bg-gelo {
+    background-color:#ebeced !important;
+}
+
+.vermelho {
+    color: #DB4437;
+}
+
+.amarelo {
+    color: #F4B400;
+}
+
+.verde {
+    color: #0F9D58;
+}
+
+.azul {
+    color: #4285f4;
+}
+
+.semlinha {
+    text-decoration:none
+}
+
+.cinza {
+    color: #f8f9fa;
+}
