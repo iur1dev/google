@@ -7,11 +7,11 @@ a:hover {
 }
 
 body {
-    font-family: "roboto" !important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 .bg-gelo {
-    background-color:#ebeced !important;
+    background-color: #ebeced !important;
 }
 
 .vermelho {
@@ -31,9 +31,15 @@ body {
 }
 
 .semlinha {
-    text-decoration:none
+    text-decoration: none
 }
 
 .cinza {
     background-color: #f8f9fa;
 }
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
