@@ -1,5 +1,6 @@
 a {
     color: black !important;
+    
 }
 
 a:hover {
@@ -43,3 +44,10 @@ body {
     margin: 0;
 }
 
+.bordazero {
+    border: none !important;
+}
+
+.semlink {
+    text-decoration: none !important;
+}
